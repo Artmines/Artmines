@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **LUA, JS, CSS, TS, HTML **
+- 💬 Ask me about **LUA, JS, CSS, TS, HTML**
 
 
 - 🏠 Also We've a dev community called [Quantum Project](https://discord.gg/8kUPbzRuNR).
