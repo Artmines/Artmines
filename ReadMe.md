@@ -35,7 +35,7 @@
 - 💬 Ask me about **LUA, JS, CSS, TS, HTML**
 
 
-- 🏠 Also We've a dev community called [Quantum Project](https://discord.gg/8kUPbzRuNR).
+- 🏠 Also We've a dev community called [Quantum Project](https://discord.gg/7wSw6nceqZ).
 <!--Intro end-->
 
 
