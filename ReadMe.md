@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **RSG Framework in REDM**
+- 🔭 I’m currently working on **RSG/VORP Framework in REDM**
 
 - 🌱 I’m currently learning **to put together multiple modules, framework orginization/performance, for a ultimate fivem experiance.**
 
