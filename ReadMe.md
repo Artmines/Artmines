@@ -26,6 +26,7 @@
 
 
 <!--Intro start-->
+[Quantum Projects Discord](https://discord.gg/kJ8ZrGM8TS)
 - 🔭 I’m currently working on **RSG/VORP Framework in REDM**
 
 - 🌱 I’m currently learning **to put together multiple modules, framework orginization/performance, for a ultimate fivem experiance.**
