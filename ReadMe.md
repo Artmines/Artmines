@@ -30,21 +30,16 @@
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 💬 Ask me about **LUA, JS, CSS, TS, HTML**
+<!-- Copy-paste in your Readme.md file -->
 
-<!--Intro end-->
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96462463" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=11855343&activity=repos&period=past_28_days" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=11855343&activity=repos&period=past_28_days&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active repos of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=11855343&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light" width="273" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Artmines" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
