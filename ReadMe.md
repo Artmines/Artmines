@@ -3,11 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Artmines aka Pablo Enterprises</h1></summary>
-  </ul>
-</div>
+<h1 align="center">🌌 Hello Guys! We Are Quantum Projects! 🌌</h1>
 
 
 <!--- snake -->
@@ -29,36 +25,25 @@
 [Quantum Projects Discord](https://discord.gg/kJ8ZrGM8TS)
 - 🔭 I’m currently working on **RSG/VORP Framework in REDM**
 
-- 🌱 I’m currently learning **to put together multiple modules, framework orginization/performance, for a ultimate fivem experiance.**
+- 🌱 I’m currently learning **to put together multiple modules, framework orginization/performance, for a ultimate fivem/redm experiance.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 💬 Ask me about **LUA, JS, CSS, TS, HTML**
 
 <!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Artmines&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Artmines&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Artmines&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?owner_id=11855343&activity=repos&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=11855343&activity=repos&period=past_28_days&image_size=4x3&color_scheme=dark" width="273" height="auto">
+    <img alt="Active repos of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?owner_id=11855343&activity=repos&period=past_28_days&image_size=4x3&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
 
 <!--- trophy (start) -->
 <div align=center>
