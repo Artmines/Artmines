@@ -32,27 +32,31 @@
 - 💬 Ask me about **LUA, JS, CSS, TS, HTML**
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96462463" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Artmines" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<!-- Copy-paste in your Readme.md file -->
+<!--OSS Insight User Dashboard Stats-->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96462463" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @Artmines" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</div>
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=96462463&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=96462463&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @Artmines" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=96462463&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+<!--OSS Insight Contribution Time Distribution-->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=96462463&period=all_times" target="_blank" style="display: block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=96462463&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+      <img alt="Contribution Time Distribution of @Artmines" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=96462463&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+    </picture>
+  </a>
+</div>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<!--- trophy (start) -->
-<div align=center>
+<!--Trophy Section-->
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Artmines&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Artmines&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
 </div>
 <!--- trophy (start) -->
 
