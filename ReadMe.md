@@ -45,8 +45,13 @@
 <!--Trophy Section-->
 
 <!--- trophy (start) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Artmines)](https://github.com/ryo-ma/github-profile-trophy)
-</p>        
+<div align="center">
+  <!--- trophy (start) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Artmines" alt="trophy">
+  </a>
+</div>
+/p>        
 <!--- stats (end) -->
 
 
