@@ -51,7 +51,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Artmines" alt="trophy">
   </a>
 </div>
-/p>        
+</p>        
 <!--- stats (end) -->
 
 
