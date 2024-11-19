@@ -89,8 +89,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artmines&label=Profile%20views&color=0e75b6&style=flat" alt="artmines" /> </p>
 </div>
 
 <!--horizontal divider(gradiant)-->
