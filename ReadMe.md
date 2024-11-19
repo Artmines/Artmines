@@ -45,7 +45,7 @@
 <!--Trophy Section-->
 
 <!--- trophy (start) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Artmines&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Artmines&column=3&margin-w=35&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>        
 <!--- stats (end) -->
 
