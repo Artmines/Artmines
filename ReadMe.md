@@ -32,15 +32,11 @@
 - 💬 Ask me about **LUA, JS, CSS, TS, HTML**
 <!-- Copy-paste in your Readme.md file -->
 
-<!--OSS Insight User Dashboard Stats-->
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96462463" target="_blank" style="display: block;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @Artmines" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96462463&image_size=auto&color_scheme=light" width="771" height="auto">
-    </picture>
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artmines&show_icons=true&locale=en&layout=compact" alt="artmines" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artmines&show_icons=true&locale=en" alt="artmines" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artmines&" alt="artmines" /></p>
 
 <!--Trophy Section-->
 
@@ -88,8 +84,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artmines&label=Profile%20views&color=0e75b6&style=flat" alt="artmines" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=artmines&label=Profile%20views&color=0e75b6&style=flat" alt="artmines" /></p>
 </div>
 
 <!--horizontal divider(gradiant)-->
