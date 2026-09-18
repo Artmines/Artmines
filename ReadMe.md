@@ -1,90 +1,113 @@
-<!-- Horizontal Divider (Gradient) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+<img src="https://r2.fivemanage.com/BkKrN1m7N9VFzzQ3Ht2i7/Artmines-banner.png" alt="Artmines" width="100%" />
+
+<br/>
+
+### Building FiveM frameworks, tools, and scripts from the ground up.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Artmines-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Artmines)
+[![Profile Views](https://komarev.com/ghpvc/?username=artmines&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/Artmines)
+![Repos](https://img.shields.io/badge/Focus-FiveM_/_GTA_V-7c3aed?style=flat-square)
+
+<br/>
+
+<sub>Enjoy the work? A coffee goes a long way</sub>
+
+<a href="https://buymeacoffee.com/pulsarframework"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" /></a>
+
 </div>
 
-<!-- H1 Without Bottom Border -->
-<h1 align="center">🌌 Hello Guys! We Are Quantum Projects! 🌌</h1>
+---
 
-<!-- Snake Animation -->
+## What I Build
+
+Full-stack FiveM development — custom frameworks, NPC systems, inventory, HUD, MDT, jobs, and standalone tools. Most of my work lives under the [Pulsar Framework](https://github.com/PulsarFW) org, a complete from-scratch roleplay framework built around performance and developer experience.
+
+---
+
+## Currently Working On
+
+- [**Pulsar Framework**](https://github.com/PulsarFW) — full-stack FiveM roleplay framework
+- [**Arti_MeshNav**](https://github.com/Artmines/Arti_MeshNav) — walk-recorded A* navmesh pathfinding for FiveM NPCs
+
+---
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
+      <br/>Lua
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br/>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+      <br/>Svelte
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br/>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MariaDB" />
+      <br/>MariaDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br/>Git
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<!-- H2 Without Bottom Border -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+---
 
-<!-- Intro Section -->
+## Activity
+
 <div align="center">
-  <p><a href="https://discord.gg/kJ8ZrGM8TS">Quantum Projects Discord</a></p>
-  <p>🔭 I’m currently working on <b>RSG/VORP Framework in REDM</b></p>
-  <p>🌱 I’m currently learning <b>to put together multiple modules, framework organization/performance, for an ultimate FiveM/RedM experience.</b></p>
-  <p>☁️ I've keen interest in cloud computing. So, I'm learning <b>AWS</b></p>
-  <p>💬 Ask me about <b>LUA, JS, CSS, TS, HTML</b></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Artmines&bg_color=0a0614&color=7c3aed&line=f75c7e&point=ffffff&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=artmines&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0614&icon_color=7c3aed&title_color=7c3aed" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=artmines&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0614&title_color=7c3aed" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Artmines&theme=tokyonight&background=0a0614&border=7c3aed&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
-<!-- Stats Section -->
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artmines&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=artmines&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artmines" alt="GitHub Streak" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
 </div>
 
-<!-- Trophy Section -->
+---
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Artmines" alt="trophy">
-  </a>
-</div>
 
-<!-- H2 Without Bottom Border -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+![Built for FiveM](https://img.shields.io/badge/Built_for-FiveM-F40552?style=flat-square)
+![Pulsar](https://img.shields.io/badge/Pulsar-Framework-7c3aed?style=flat-square)
+![Author](https://img.shields.io/badge/author-Artmines-7c3aed?style=flat-square)
 
-<!-- Tech Stack Icons -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,dynamodb,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,py,tailwind,ts,vscode&perline=14" alt="Tech Stack Icons" />
-  </a>
 </div>
-
-<!-- Connect with Me Section -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!-- Icons and Links -->
-<div align="center">
-  <a href="https://twitter.com/Artmines_Playz_" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/Artmines_Playz/" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-  <a href="https://discord.gg/8kUPbzRuNR" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
-  </a>
-</div>
-
-<!-- Profile Visit Count -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=artmines&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<!-- Horizontal Divider (Gradient) -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</div>
-
-<p align="center">Last Edited on: 01/29/2024</p>
